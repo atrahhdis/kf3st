@@ -899,8 +899,8 @@ Answer: As a general rule, note until things become very subtle. At that point I
 
 With regard to indicators of improvement or progress, there is a tendency to think that if you are accessing pleasant or subtle states you are doing it right. Sometimes it will be pleasant and/or subtle, sometimes it will be unpleasant and/or coarse. You are doing it right if you are clearly seeing whatever arises. There is a large element of trust required here, as it is not always obvious that you are making progress. Sometimes you may feel that you have regressed when in fact you have accessed a new stratum of mind that just happens to be unpleasant by nature. If you trust the process and apply the vipassana technique consistently you will certainly make progress over time. Don't look for any particular sensation, and certainly don't look for visions. See whatever is there. Whatever is in front of you now is the door to the door to the door, etc. You can't open the door that you haven't yet reached.
 
-**Question: I am inquiring about the experience of vipassana, if it requires attachment to a separate self, which is an illusion and creates suffering.
-**
+**Question: I am inquiring about the experience of vipassana, if it requires attachment to a separate self, which is an illusion and creates suffering.**
+
 Answer: This is a very profound question. As a practical matter, vipassana is both possible and valuable. And the fact that arahats can still do vipassana would indicate that no subject/object delusion is necessary. In any case, life after enlightenment is still life, so arahats spend most of their day behaving as though duality were real. They go to work, have relationships with "other people," and try to fill their days with interesting and pleasant experiences, including meditation. But here's an interesting point that probably wouldn't have occurred to me if you hadn't asked the question: I no longer consciously do vipassana. Vipassana just happens. Objects naturally deconstruct themselves with continued attention. And the avanced jhanas, those beyond the first eight, seem to be vipassana/samatha hybrids. I haven't thought through the implications of this, I'm just reporting my experience. Am I getting to the heart of the question? If not, let's keep at.
 
 **Question: What are the patterns of suffering between fruition and becoming an arahat?**
@@ -990,16 +990,16 @@ It's not that he wasn't willing to tell me. He was. He tried to explain it to me
 
 I never try to sell this to anybody. I just work with the energy people bring. If you are asking this question, you are probably already hooked. There's no point in fighting it. Find out for yourself what all the fuss is about. Maybe you'll find out right now, as you read this. Maybe it will take you twenty years. So what? Do you really have a choice?
 
-**Question: I wonder if this is a drive everybody has, only that most people are more successful at suppressing it, or if there actually is a pretty clear turning point somewhere that most people don't meet at all.
-**
+**Question: I wonder if this is a drive everybody has, only that most people are more successful at suppressing it, or if there actually is a pretty clear turning point somewhere that most people don't meet at all.**
+
 Answer: Most people will never get on this ride. People that haven't crossed the A&P don't have to suppress the desire to awaken, because they don't have it, at least in the sense that we are talking about here. Prior to that, it's possible to have an interest in awakening, but it's more of a casual or academic interest. I suppose one could even take a kind of greedy orientation toward it and "want" enlightenment based on some idea of how pleasant it must be. But such people aren't really on the ride. You know you're on the ride when it begins to take over your life. You find yourself making life decisions that support awakening, often to the detriment of other aspects of your life.
 
 **Question: In concentration meditation I am getting a "vibrating" in the throat area. Is the vibrating of any significance? I am particularly interested in any advice to improve practice.**
 
 Answer: Say more about what's going on in your practice. The more precise information you can give us, the better our chances of diagnosing and or suggesting how to proceed from here. It's been a couple of months since you wrote; is the vibration still happening as before? What does the vibration feel like? What is the frequency of vibration? How long does it last? Does it move around? How big an area is covered? What happens to it when you observe it dispassionately? What’s been happening in the last two months?
 
-**Question: The vibration was very localized and did not move and was at the speed of a sewing machine. It happened for about a week, when it stopped I took it as unimportant. At the time I was playing around with jhana and had attempted no insight meditation so I never investigated it.
-**
+**Question: The vibration was very localized and did not move and was at the speed of a sewing machine. It happened for about a week, when it stopped I took it as unimportant. At the time I was playing around with jhana and had attempted no insight meditation so I never investigated it.**
+
 Answer: Let's bring this up to date. What happened when you sat today? Any sensation is an excellent place to start. If you apply the vipassana technique systematically, you will get the results. If you are practicing and not getting results, it's because there's a subtle flaw in your technique. Tell us exactly what you are doing and we'll help you fix it. On the other hand, you may already be getting the results, but unless you give a thorough report, we can't tell that either. The fact that you are interested enough to post here is promising, but it has to go beyond interest to the point of systematic practice. Go hit the cushion, apply the technique for 30 or 45 minutes, write down as much detail as you can remember after the sitting, and then post your report here. This practice works! Now get to work!
 
 **Question: I have sat a few times since this post. Vibrations always arise, they always appear to be vibrating at a guess 10 (although that may easily be 30) times per second. The vibrations appear in differing parts arm, leg head and feels a bit like the blood running after you sleep on your arm. I think I am sensing the blood flow. While mindful, I have a diminished awareness of the vibrations after meditation. In meditation investigation of the vibrations always invokes a body rapture that I note but the intensity overwhelms the investigation in that the rapture remains solid and it also changes the mind state. After the rapture I investigate the vibrations again, if feel annoyed with the rapture and note “annoyed.” This is the cycle. Do I keep going with the noting process until this cycle breaks?**
@@ -1008,8 +1008,7 @@ Answer: Excellent report. You are penetrating the object. Keep doing it. You are
 
 When you are inside the breath, as you described, go with it. It isn't necessarily penetrating the object, but it is strong concentration and is very important to cultivate. There is plenty of time to develop both concentration and vipassana, so take advantage of your strong concentration when it arises.
 
-**Question: It would seem I need to develop vipassana and that will not happen via concentration! I will try the suggested exercises to improve my understanding, experience and skill with vipassana.
-**
+**Question: It would seem I need to develop vipassana and that will not happen via concentration! I will try the suggested exercises to improve my understanding, experience and skill with vipassana.**
 
 Answer: You are already doing vipassana; that's how you penetrated the object. Continue to refine your vipassana technique as you continue to develop your concentration. Both are required to progress through the ñanas (insight knowledges) and attain to the Four Paths of Enlightenment.
 
@@ -1051,8 +1050,8 @@ Move on to the 2nd and 3rd strata of mind, which correspond to the 2nd and 3rd �
 
 All ñanas have underlying jhanas (frequencies). But some frequencies are stable (pleasant), and some are unstable (unpleasant). Only the stable jhanas have received the official jhana designation. But there is no fundamental difference between the strata of mind underlying the "jhanas" and those underlying the ñanas. All the frequencies can be accessed by either technique.
 
-**Question: Why are some strata unstable?
-**
+**Question: Why are some strata unstable?**
+
 Answer: I don't know. It may be something inherent in the way the energy flows and arranges itself within the body. For our purposes it’s enough to know that some strata of mind are stable and some are not. Stable strata of mind bring pleasant experiences, while unstable strata bring unpleasant experiences. They all have to be penetrated without exception. Understanding and accepting this is essential for progress, because if you stop meditating every time you come to something unpleasant you will not penetrate the unstable strata and you will be hung up at those levels indefinitely. Apply the vipassana technique no matter what comes up in your experience.
 
 **Question: I remember once hearing Bhikkhu Bodhi say that an arahant does not have the needed attachment to live as a householder. Also, can you tell me a little bit more about living as a householder without having any feeling of a center point or 'I", how does that affect your daily life as a husband, teacher, etc.? And lastly, this is a bit personal so excuse me, can one have or want to have sexual relations at this stage? And also, does your wife also practice dhamma?**
@@ -1088,8 +1087,8 @@ Take responsibility, people, and abandon your fantasies of passive enlightenment
 "Work out your own salvation. Do not depend on others." - Buddha
 
 
-**Question: It seems people are talking quite flippantly about enlightenment?
-**
+**Question: It seems people are talking quite flippantly about enlightenment?**
+
 Answer: Thanks for this post. One of the most important things we do here is answer questions like this one.
 
 Here's an excerpt from Daniel Ingram's "Imagine" post on the home page of the Dharma Overground:
@@ -1238,7 +1237,7 @@ Answer: Coffee is wonderful. Life is hard. There is no need to wear a hair shirt
 
 One man's opinion. ;-)
 
-*A cilice (hair shirt) was originally a garment or undergarment made of coarse cloth or animal hair used in some religious traditions to induce some degree of discomfort or pain as a sign of repentance and atonement. In more modern religious circles, the word has come to simply mean any device worn for the same purposes. –Wikipedia
+A cilice (hair shirt) was originally a garment or undergarment made of coarse cloth or animal hair used in some religious traditions to induce some degree of discomfort or pain as a sign of repentance and atonement. In more modern religious circles, the word has come to simply mean any device worn for the same purposes. –Wikipedia
 
 **Question: Is non-dual practice necessarily chaotic, or can it be mapped?**
 
@@ -1250,8 +1249,8 @@ Answer: Any non-dual teaching, be it Mahamudra, Dzogchen, Zen, or Advaita, can b
 
 3) Pure, non-local, passive awareness. This is the irreducible awareness, or "rigpa". There is no subject and no object. Awareness, which is not other than all of manifestation, is simply aware. This ultimate reality cannot be cultivated by an act of will. It is always already the case. You can't do this, but you can stop ignoring it. One way to stop ignoring it is to dwell as the witness (Stage 2, above). Dwelling as the witness is "the stick that stirs the fire and will eventually be consumed by it." Over time, when the conditioning toward ignoring reality weakens, it is possible to let the subject/object duality fall away simply by remembering. This is enlightenment.
 
-**Question: I have noticed that working with gross objects helped to prepare me for more subtle objects. There does seem to be a progression in that objects that were essentially non-existent slowly became available, in that I would notice them for the first time, and I was then able to find them thereafter if I looked. So do I push? Do I pay the closest attention to the objects that are just on the edge of my awareness, and then as those become easier and even more subtle objects arise, do I keep pushing the envelope? There's a feeling of going "up and in" with sometimes a sense of clicking into something with a deeper level of mind becoming available. Should I care? Is that the "direction" to travel? Or should I anchor myself in the real world, hang out with gross objects and look into them ever more deeply?
-**
+**Question: I have noticed that working with gross objects helped to prepare me for more subtle objects. There does seem to be a progression in that objects that were essentially non-existent slowly became available, in that I would notice them for the first time, and I was then able to find them thereafter if I looked. So do I push? Do I pay the closest attention to the objects that are just on the edge of my awareness, and then as those become easier and even more subtle objects arise, do I keep pushing the envelope? There's a feeling of going "up and in" with sometimes a sense of clicking into something with a deeper level of mind becoming available. Should I care? Is that the "direction" to travel? Or should I anchor myself in the real world, hang out with gross objects and look into them ever more deeply?**
+
 Answer: The object of awareness is always whatever is predominant in the mind. As one object is seen clearly, another presents itself. But it isn't a linear progression towards ever more subtlety. It's more of a spiral towards subtlety.
 
 Example: As U Pandita says, you can follow the breath all the way to arahatship. That's because the breath object contains all possible levels of subtlety. But you don't have to strain to see anything. At any given time some physical or mental sensation will predominate. As you deconstruct that object (simply by seeing it clearly), it will naturally become ever more subtle until it is completely seen through. Then, Poof! You are back to a gross object. You have entered a new stratum of mind, which must be deconstructed systematically, from gross to subtle, just as before. This happens many, many times. That's what I mean by a spiral and also what I mean by setting them up and knocking them down. You are setting up strata of mind and penetrating them. The object is only the vehicle you use to master each stratum of mind in turn. There is no need to jump from one object to the next, e.g. breath, thoughts, pains, sounds, if it is possible to stay with the breath.
@@ -2080,4 +2079,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.00 - 2020-06-11
+V 1.01 - 2020-06-11
