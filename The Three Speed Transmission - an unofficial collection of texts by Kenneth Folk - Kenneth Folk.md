@@ -28,8 +28,6 @@ If, for whatever reason, dwelling as the witness isn't feasible, downshift to:
 
 1st gear: Balance investigation (vipassana) and concentration (samatha). Use mental noting until the noticing is automatic, then just concentrate and notice. The genius of vipassana is that there is never a time when it can't be done. So it's the ultimate safety net and 1st gear practice. It also has the feature of being effective all the way to arahatship (the Fourth of the Four Paths of Enlightenment as described in Theravada Buddhism). So, it's by no means a low-grade or substandard practice. Quite the opposite, it's a very sophisticated technology of enlightenment. Used correctly, together with the other practices listed in this recipe, it's a rocket ship to the moon.
 
-For a more in-depth description of each of the 3 Speeds, click on the links (menu at upper left of every page on this site) labeled 1st Gear, 2nd Gear, and 3rd Gear.
-
 
 ## Revised (2013) Introduction
 
@@ -2055,10 +2053,6 @@ This is so important, because with these words Ramana asserts that the Advaitist
 
 If Ramana is correct, this is good news for pure Advaitists. They need not fear missing out on the fruits of development even if they never spend a moment on practices that specifically target development. All that is necessary is to dwell as primordial awareness. By the way, the common denominator between pure concentration practice and dwelling as the "I AM," is... concentration. Concentration, coupled with insight, leads to developmental enlightenment. Ramana's practice promotes both concentration and insight. All of this makes perfect sense when seen through the lens of the Buddhist maps. The non-dual aspect is, of course, not addressed in Theravada, which is why we have the Mahayana. If Hinayana were complete, there would be no need for Mahayana or Vajrayana.
 
-
-# Goals
-
-
 # Notes
 
 ## Source 
@@ -2079,4 +2073,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.02 - 2020-06-11
+V 1.03 - 2020-06-11
