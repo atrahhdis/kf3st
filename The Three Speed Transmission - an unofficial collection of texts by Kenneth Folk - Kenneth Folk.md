@@ -1491,8 +1491,8 @@ You don't need any prior knowledge to do this practice. A can-do attitude and a 
 
 **Question: When practicing jhana, should the visual image eventually get stable? Or should I get use to the moving, disappearing, etc? From some descriptions I’ve heard, I get that the whole busyness is not really stable (?). This makes me wonder, since a I thought that the jhana experiences are very stable (frozen).**
 
-**Kind of weird thing: thoughts are still present but somehow at the background. Do they disappear once you enter a jhana?"
-**
+**Kind of weird thing: thoughts are still present but somehow at the background. Do they disappear once you enter a jhana?"**
+
 Answer: I don't think there is a "right answer" to how this can manifest. But there is a trend toward more stability over time. Sometimes things are "frozen," but more often they are not.
 
 You described a "bright ghostly image" that forms over the object. At that point, try closing your eyes and noticing the overall physical sensations. You may be in jhana at that point. Close your eyes, let yourself bathe in the sensations and see how deep and stable it gets.
@@ -1503,8 +1503,8 @@ The way you describe thoughts as being present but in the background accords wit
 
 Answer: Start with your eyes open as you gaze at the kasina object. You can close them if they get tired, or if you want to explore the images "on the backs of your eyelids," or if you enter jhana and want to devote all of your attention to body sensations or mental phenomena. The best thing is to experiment and build a base of experience upon which to build your practice.
 
-**Question: - The Visuddhimagga talks about the "counterpart sign" (patibhaga-nimitta) also known as "mental image"
-- Does any body can explain me what the old guy meant? Is it symbolic/poetic language or something concrete (seen a the light with the eyes closed, etc)?**<br>
+**Question: - The Visuddhimagga talks about the "counterpart sign" (patibhaga-nimitta) also known as "mental image"**
+**- Does any body can explain me what the old guy meant? Is it symbolic/poetic language or something concrete (seen a the light with the eyes closed, etc)?**<br>
 **- What should I look for?<br>**
 **- The description goes like this: "...But the counterpart sign appears as if breaking out from the learning sign, and a hundred times, a thousand times more purified, like a looking-glass disk drawn from its case, like a mother-of-pearl dish well washed, like the moon's disk coming out from behind a cloud, like cranes against a thunder cloud. But it has neither color nor shape; for if it had, it would be cognizable by the eye, gross, susceptible of comprehension (by insight) and stamped with the three characteristics. But it is not like that. For it is born only of perception in one who has obtained concentration, being a mere mode of appearance (Vism. 125-26; PP.130) "**
 
@@ -2079,4 +2079,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.01 - 2020-06-11
+V 1.02 - 2020-06-11
