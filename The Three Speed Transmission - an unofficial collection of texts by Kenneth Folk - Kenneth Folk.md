@@ -6,30 +6,7 @@ It was created for archiving purposes only, using the material found on various 
 
 # The Three Speed Transmission
 
-## Old introduction
-
-People do contemplative practice for different reasons. Some people want to be free from suffering. Some people want to have interesting experiences. Some people want to find out what is true. For me, the best reason to practice is to find the happiness that is not dependent upon conditions. When happiness becomes your baseline, it frees up a lot of energy to be free, have interesting experiences, and find out what is true. In actual practice, all of these things are likely to happen to anyone who commits to contemplative practice, so you get to have your cake and eat it too.
-
-Below is a prescription for the happiness that is independent of conditions. I call it the 3-Speed Transmission. It's like driving a car; when you are cruising along and everything is fine, third gear is the place to be. But sometimes the going gets rough and you know that if you stay in high gear you'll stall out. That's when it's useful to be able to downshift.
-
-In pedagogy (the science of teaching and learning) there is a concept called "scaffolding." It means offering students a way to build their understanding step by step, so that each new understanding fits into what they've already learned. It's like building a scaffold around a house; you can climb up the scaffold to reach the high places you haven't finished building yet. If learning is carefully scaffolded, there will always be something to hang each new bit of learning on as it comes in. This association of each new bit of understanding with what has gone before helps you to retain knowledge better because anything you learn within a larger context is hard to forget or confuse. Later, as we shall see, the understanding we are most interested in is not related to knowledge in the usual sense. And it doesn't need anywhere to hang. All of the scaffolding is only a temporary device to help you find the confidence to abandon the building project entirely and find that you already are the happiness you seek.
-
-The most gifted among you may find that you can just stay in third gear nearly all the time. For you, the happiness that does not depend on conditions may become second nature as soon as it is pointed out to you. For many of us, though, the conditioning to live in our thoughts is very strong. In that case, it's helpful to have 2nd and 1st gear so that when things get tough or confusing we can still do a practice that is accessible and that doesn't leave us feeling overwhelmed.
-
-So, without further ado, here is the 3-Speed Transmission: (First I'll present the thumbnail version, then elaborate on each theme.)
-
-3rd gear: If you can just let it be, understanding in your heart and in your bones that the happiness and peace you seek are your own true nature, then let it be. This is known as recognizing buddha nature or dwelling in buddha mind.
-
-If you are distracted and unable to rest in buddha mind, downshift to:
-
-2nd gear: Ask "Who am I?" until awareness turns back on itself. Cultivate the "witness," becoming absorbed in the perspective of awareness taking itself as object.
-
-If, for whatever reason, dwelling as the witness isn't feasible, downshift to:
-
-1st gear: Balance investigation (vipassana) and concentration (samatha). Use mental noting until the noticing is automatic, then just concentrate and notice. The genius of vipassana is that there is never a time when it can't be done. So it's the ultimate safety net and 1st gear practice. It also has the feature of being effective all the way to arahatship (the Fourth of the Four Paths of Enlightenment as described in Theravada Buddhism). So, it's by no means a low-grade or substandard practice. Quite the opposite, it's a very sophisticated technology of enlightenment. Used correctly, together with the other practices listed in this recipe, it's a rocket ship to the moon.
-
-
-## Revised (2013) Introduction
+## Introduction
 
 People do contemplative practice for different reasons. Some people want to be free from suffering. Some people want to have interesting experiences. Some people want to find out what is true. For me, the best reason to practice is to find the happiness that is not dependent upon conditions. When happiness becomes your baseline, it frees up a lot of energy to be free, have interesting experiences, and find out what is true. In actual practice, all of these things are likely to happen to anyone who commits to contemplative practice, so you get to have your cake and eat it too.
 
@@ -2073,4 +2050,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.04 - 2020-06-11
+V 1.05 - 2020-06-11
