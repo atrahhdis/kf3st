@@ -118,7 +118,7 @@ The dynamic yogi moves up and down the jhanic arc in each sitting, getting a lit
 
 The static yogi goes to the first jhana, becomes absorbed there and spends some period of time attempting to master that level. He eventually feels comfortable moving on to the next level, and so on. Since this kind of extreme mastery of each stratum of mind takes a long time, he grows old, grey, and toothless long before he reaches the top... but he has a very blissed-out smile on his face!
 
-I recommend dynamic jhana. The goal is enlightenment and the happiness that is not dependent upon conditions. In order to be enlightened, you must dis-embed from your experience. Anything you can take as object (see clearly and label) is not “you” by definition. Surely you must be the one who is looking. And since even the sense of “I” can be taken as object, there is no place for the supposed “I” to hide. Every 
+I recommend dynamic jhana. The goal is enlightenment and the happiness that is not dependent upon conditions. In order to be enlightened, you must dis-embed from your experience. Anything you can take as object (see clearly and label) is not “you” by definition. Surely you must be the one who is looking. And since even the sense of “I” can be taken as object, there is no place for the supposed “I” to hide. Every experience can be objectifed and dis-embedded from. Finally, there is only Awareness, which gives rise to and is not other than the manifest world.
 
 ### How to Get Enlightened
 
