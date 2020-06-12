@@ -4,9 +4,8 @@ This e-book is an unofficial collection of texts by [Kenneth Folk](https://kenne
 
 It was created for archiving purposes only, using the material found on various copies of [Kenneth Folk's old website](https://web.archive.org/web/2013*/http://kennethfolkdharma.wetpaint.com) on [archive.org](https://web.archive.org).
 
-# The Three Speed Transmission
 
-## Introduction
+# Introduction
 
 People do contemplative practice for different reasons. Some people want to be free from suffering. Some people want to have interesting experiences. Some people want to find out what is true. For me, the best reason to practice is to find the happiness that is not dependent upon conditions. When happiness becomes your baseline, it frees up a lot of energy to be free, have interesting experiences, and find out what is true. In actual practice, all of these things are likely to happen to anyone who commits to contemplative practice, so you get to have your cake and eat it too.
 
@@ -29,7 +28,7 @@ If, for whatever reason, dwelling as the witness isn't feasible, downshift to:
 **1st gear: Balance investigation (vipassana) and concentration (samatha).** Use mental noting until the noticing is automatic, then just concentrate and notice. The genius of vipassana is that there is never a time when it can't be done. So it's the ultimate safety net and 1st gear practice. It also has the feature of being effective all the way to arahatship (the Fourth of the Four Paths of Enlightenment as described in Theravada Buddhism). So, it's by no means a low-grade or substandard practice. Quite the opposite, it's a very sophisticated technology of enlightenment. Used correctly, together with the other practices listed in this recipe, it's a rocket ship to the moon.
 
 
-## Goals
+# Goals
 
 Anytime you embark upon a program of study, it's a good idea to have goals; if you decide to practice the 3-Speed Transmission, it will be helpful for you to know where you hope to end up. Do you want to be free from suffering? Do you want to be a meditation master? Do you want to know what all the fuss is about? Do you want to experience altered states of consciousness? Do you just want to be happy?
 
@@ -55,7 +54,7 @@ The goal at this level is the happiness that is not dependent upon conditions. T
 
 May you come to know the happiness that is independent of conditions.
 
-### Realistic Expectations 
+## Realistic Expectations 
 
 It's good to have some idea of where you are headed. The inspiration that comes from imagining a happier future can be a real support for your practice. As you continue to practice, you will find out for yourself what practice leads to; meanwhile, it's not a bad idea to have some dreams and goals.
 
@@ -81,7 +80,7 @@ It is possible to be happy. But unless you are already awake, you don’t know q
 
 Enlightenment is both much better and much worse than you think. It’s much worse because it will not result in you becoming a saint. It’s much better because you don’t have to change in order to have it. The happiness you seek is what you already are. And if it takes you another twenty years to notice what you already are, it will have been worth every minute. On the other hand, you might notice now...
 
-### Dynamic Jhana vs Static Jhana
+## Dynamic Jhana vs Static Jhana
 
 [**editor's note:** missing animation]
 
@@ -95,7 +94,7 @@ The static yogi goes to the first jhana, becomes absorbed there and spends some 
 
 I recommend dynamic jhana. The goal is enlightenment and the happiness that is not dependent upon conditions. In order to be enlightened, you must dis-embed from your experience. Anything you can take as object (see clearly and label) is not “you” by definition. Surely you must be the one who is looking. And since even the sense of “I” can be taken as object, there is no place for the supposed “I” to hide. Every experience can be objectified and dis-embedded from. Finally, there is only Awareness, which gives rise to and is not other than the manifest world.
 
-### How to Get Enlightened
+## How to Get Enlightened
 
  What would I say if I had just five minutes to give comprehensive instructions for awakening?
 
@@ -124,7 +123,7 @@ Do these practices, exactly as written:
 May you awaken now. (If it takes you another twenty years it will have been worth every minute.)
 
 
-### A 9 Stage Map of Developmental Enlightenment
+## A 9 Stage Map of Developmental Enlightenment
 
 Enlightenment is not binary (as in “you either have it or you don’t), but exists on a continuum from totally clueless on one end of the spectrum to full and complete enlightenment on the other. Every person on Earth can be plotted at some point on this continuum at some particular point in time. The hope is that one moves further and further along the scale throughout his or her life. Below is a 9 stage map of this developmental process. The model is a work in progress; I will add more detail and update it as I learn more, including adding additional levels if necessary. I am publishing it now in the hope that meditators will find it useful in their own practice and in helping others to awaken. There are some obvious flaws in this kind of map, not least of which is that in order to make sense of it, one must have a solid working knowledge of Theravada Buddhist concepts including the Progress of Insight, jhana, and nirodha samapatti. I apologize for these shortcomings and welcome feedback on how to make the map more accessible across traditions without losing the high level of resolution included here.
 
@@ -149,7 +148,7 @@ The 4th Insight Knowledge, Arising and Passing away of Phenomena, aka A&P. *Read
 **Stage 9**: Edit, 26JUL2012: Hmmm... Don't know yet. Staying open to possibilities.
 
 
-## 1st Gear
+# 1st Gear
 
 First Gear: Balancing Concentration (samatha) and Insight (vipassana).
 
@@ -161,7 +160,7 @@ Theravada Buddhism describes four Paths of Enlightenment, each of which builds u
 
 Each of the four Paths of Enlightenment unfolds through a series of sub-stages, called the Progress of Insight. Once you have completed all 16 stages of the first Progress of Insight, you have, by definition, attained to the First Path of Enlightenment, at which time your understanding of your relationship to yourself and your experience is permanently altered in subtle but profound ways. This new understanding further deepens during the 2nd Progress of Insight, which looks and feels similar to the 1st and culminates in 2nd Path. After this, the Progress of Insight speeds up and cycles repeatedly. Eventually, 3rd and 4th Path are attained, resulting in what the Theravada Buddhists consider "full enlightenment." The kind of thumbnail sketch I've provided here makes this all sound fairly straightforward and perhaps even easy, but most people will not find it so. To reach the highest levels of enlightenment within this system requires a tremendous amount of concentration, which in turn requires great dedication and for most people many years of dedicated effort and considerable sacrifice. Nonetheless, it is possible and well worth doing; balancing concentration and insight brings about what I call "physio-energetic" development, a kind of human development that seems to be optional. In other words, the majority of people on Earth will not develop their potential in this arena and many will not even believe that such a possibility exists.
 
-### Detailed Noting is Better 
+## Detailed Noting is Better 
 
 When doing noting practice, preferably aloud, you have to decide whether to do a very detailed noting or a more sparse or skeletal noting. A skeletal noting technique, for example, would be to just choose from these six notes: seeing, hearing, tasting, touching, smelling, and thinking.
 
@@ -182,7 +181,7 @@ You do not have to be concentrated to note. Note "agitation, dullness, unhappine
 You don't have to figure this out in advance. Every moment that you spend making love to ideas is a moment you could have been noting. Imagine a surfer who thinks he has to understand wave theory before he gets in the water. Just get in there and surf!
 
 
-### Walking Meditation
+## Walking Meditation
 
 I used to hate walking meditation as taught by my American vipassana teachers. The slowness of it was painful to me, and I rarely felt that I was doing it right. I practiced walking meditation between sits on retreat because there was nothing else to do. Then, while on a one-year retreat in Asia, I noticed that the Burmese yogis often walked fast, or at normal speed. They didn't even always walk in a straight line. Sometimes they walked in a circle, or wandered. My whole idea of what walking meditation could be opened up to almost infinite possibilities, as did my relationship to it. Where I used to grudgingly use walking as a way to kill time or to set up the sittings, nowadays I use the sittings to set up walking. Formal walking meditation is just one step away from awareness during daily life activities, so I love the utilitarian aspect of it. I walk fast, I walk in the woods, I stop, I squat down, I stand still, I stare off into space... what I rarely do, though, is pay attention to my feet. I do breath-counting 1-10, starting over when I get lost, or I notice the breath at the mouth and nostrils, or I play with putting the locus of awareness outside the body, and watching as from above; I love walking meditation.
 
@@ -201,7 +200,7 @@ Notice that in any given moment, the energy seems to be either expanding or cont
 Expect nothing. See what happens.
 
 
-### Access Concentration
+## Access Concentration
 
 You are sitting, struggling to pay attention to your primary object, assaulted by sounds from the outside and thoughts from the inside. It gets worse. You feel an almost unbearable tension and anxiety and you have to resist the urge to get up and run screaming from the meditation hall.
 
@@ -221,9 +220,9 @@ Count the breath from one to ten, counting only on the exhalation. If you get lo
 
 Try not to make too big a deal out of this concept. In other words, don't make it yet another attainment to strive for and feel bad about if you think you aren't getting it. Often you will be in access concentration and not know it. At times there won't be any overt signs that you have entered; you'll just feel able to meditate well. The important take-away here is that when you are sitting and feeling a lot of anxiety and building tension, it may be that you are just on the verge of passing inside the bubble of access concentration. Be patient and don't get up or start distracting yourself every time it gets a little difficult. Take an interest in the process and see if things get better just when you think they couldn't get any worse. Be kind to yourself and think tortoise, not hare, constancy, not heroics. It's the gentle pressure of applying attention over extended periods of time both on and off the cushion that does the most work, as opposed to short periods of intense effort.
 
-### Practice Tips
+## Practice Tips
 
-#### Vipassana technique
+### Vipassana technique
 
 Q: So, what do you think? Bear down and increase concentration on primary object? Or keep letting it play out?
 
@@ -231,7 +230,7 @@ A: Well, you never want to bear down, as that implies "over-efforting." You want
 
 How do you know if you have contact with the object? Easy. If you can name it, you know you are contacting it. This is the true value of noting; it keeps you honest. If you are noting, you are doing vipassana. You cannot note without doing vipassana. That does not mean hypnotize yourself into noting "rising, falling," and pretend that you are awake, mind you. You have to know something about the object. Go ahead and note "rising, falling," but know that you are experiencing coldness, warmth, softness, hardness, stinging, burning, aching, pulsing, throbbing, or whatever it is. Noting (knowing clearly what you are experiencing and naming it) is biofeedback.
 
-#### Choosing a teacher
+### Choosing a teacher
 
 -- Original Message --<br>
 From: refred<br>
@@ -246,7 +245,7 @@ Thank you for the responses. I have a question about meditation teachers. I have
 
 Kenneth: Refred, I have to say I really like the answers he has given you so far. But you'll have to follow your gut. The question of whom to trust as your teacher is one of the most perplexing of all. Human relationships are complex in the best of cases. The first thing to keep in mind is to take care of yourself, understanding that there are people in the world who will not hesitate to use the mask of the meditation teacher to gain power over or unscrupulously extract money from others. At the same time, there are many sincere and gifted teachers, some of whom are enlightened. I recommend that you work with this man a bit, honor his time as your own, don't give him any power over you, and see if you are making progress under his guidance. It may take you several years to really evaluate your relationship with him, but meanwhile your practice might grow immensely. If it feels weird or creepy at any point along the way, back off and get some wise counsel from friends, family, other teachers, and fellow meditators. The more these things are out in the open, the healthier they tend to be.
 
-#### Masculine vs Feminine Approach to Practice:
+### Masculine vs Feminine Approach to Practice:
 
 The hardest thing to accept is that there isn't any experience that's better than any other. The work is done when you objectify something in this moment, thereby dis-embedding from it. That's it. You can do it just as easily off the cushion as on, and in fact you will have to do it all day long to get enlightened. At first, there's a tendency to favor cushion practice over off-cushion practice. Later, they are the same. No hurry, but understand that that's where you are headed.
 
@@ -257,7 +256,7 @@ Richard Pryor is getting this uncomfortable look on his face. He says, "Baby, ho
 In order to get enlightened, you have to take the feminine approach to practice. The masculine approach will never work. Doing it really hard for twenty minutes is a recipe for anxiety, frustration, and failure. If, on the other hand, you can keep up the gentle pressure of attention all day long, from the time you wake up in the morning until the time you go to sleep at night, you can't help but awaken.
 
 
-### The Progress of Insight
+## The Progress of Insight
 
 One way to think of the Progress of Insight would be to plot it on a graph. It might look like this:
 
@@ -303,7 +302,7 @@ We can divide the graph into five parts:
 
 5. Consolidation and Resolution. Includes the 11th insight knowledge, Knowledge of Equanimity, the 12th through 15th insight knowledges, including Path and Fruition, all four of which are said to happen in one moment, permanently completing the cycle, and the 16th insight knowledge, Review.
 
-#### First insight knowledge, Knowledge of Mind and Body
+### First insight knowledge, Knowledge of Mind and Body
 
 So, the opening stage feels solid. The easiest way to picture this is to imagine a new yogi on his first retreat. (For lack of a non-awkward alternative, I'm going to adopt the convention of the generic masculine pronoun, with apologies to the majority of humankind who do not consider themselves male.) The idealized imaginary yogi, on the first day of his first vipassana retreat, will reach a concentrated state and have his first insight. He will see that he is not his body, and he is not his thoughts. He will further see that mind and body are two separate things, with each influencing the other. He may even see a thought arise, as separate from "himself," the knower of the thoughts. This is an enormous development, as he has not previously considered himself to be other than his thoughts. This is the beginning of a meta-awareness, a stepping back from experience to be able to dispassionately observe experience, an ability that will strengthen throughout his life.
 
@@ -319,11 +318,11 @@ While the stages of the Progress of Insight are described by the Theravada Buddh
 
 In fact, it was this predictability, this repeatability of the process across individuals, across cultures, and across millenia, that first drew me to vipassana and Theravada Buddhism. Until I met Bill Hamilton in 1990, I had been reading mostly zen literature, and had come to think of enlightenment as some nebulous, airy-fairy kind of wisdom that some people possessed for some inexplicable reason. So, when Bill began to speak, during our very first meeting, about a kind of enlightenment that could be systematically developed by anyone, I was immediately hooked. Over time, I came to understand that vipassana is simply a technology by which to achieve a development that, while completely natural and organic, is optional. Most people, for better or worse, will not develop this potential. Many will live their entire lives without even knowing it exists. Some will be told of its existence, but will not believe it. Such is the way of the world.
 
-#### Second insight knowledge, Knowledge of Cause and Effect
+### Second insight knowledge, Knowledge of Cause and Effect
 
 On the second day of his retreat, as our ideal yogi continues to deepen his concentration, he will reach the second insight knowledge, Knowledge of Cause and Effect. This is the direct, intuitive understanding of karma, as experienced in his own life. With his mind quiet and undistracted, he will feel in his gut the pain of his past unskillful actions and the joy of past good deeds. Much of his time on the cushion and walking around the retreat center will be spent reflecting on past actions and their karmic fruit. These revelations are by no means ordinary thoughts, but rather deep intuitions backed up by physical sensations. When he remembers the time he sent flowers to his mother for no reason except that he felt like it, he will feel a deep happiness in mind and body. When he remembers the time he shoplifted candy as a child he will feel pain, and will instantly make the connection between cause and effect; skillful action leads inevitably to happiness, while unskillful action leads inevitably to suffering. Karma is no longer an abstraction to him, but a law of nature. He has attained the second insight knowledge, Knowledge of Cause and Effect. But he has still not fully penetrated the object.
 
-#### Third Insight Knowledge, Knowledge of the Three Characteristics
+### Third Insight Knowledge, Knowledge of the Three Characteristics
 
 The three fundamental characteristics referred to so often by the Buddha in the Pali canon are Dukha, Anicca, and Anatta. These three Pali words are worth teaching in their original Pali form, as the English translations, especially in the case of Dukkha, do not capture the full sense of the words. Dukkha is usually translated into English as "suffering," and this is as good a single-word translation as any. But the word dukkha also carries the sense of "unsatisfactoriness." The Buddha said "Life is dukkha." In fact, that was his First Noble Truth. The idea that life is inherently unsatisfactory is fundamental to Buddhism, and is often repeated by Buddhist teachers in order to motivate students to meditate. The Buddha promised that, by applying his techniques, ordinary people "could come to the end of dukkha." Is that true? The short answer is "yes." The long answer involves explaining a subtle and profound word game. For now, let's just say that to be enlightened is to completely internalize the experience that, although there is suffering, there is no one to suffer.
 
@@ -335,7 +334,7 @@ On the third day of his first retreat, our ideal yogi experiences all three of t
 
 But the meditation teacher has seen this a thousand times before. He knows the map, sees that the yogi is about to make a breakthrough in his practice, and manages to convince the yogi to stay. "Stay just one more day," he encourages, "and we'll talk about it again tomorrow." The next day, of course, our yogi attains to:
 
-#### The fourth insight knowledge, Knowledge of the Arising and Passing away of Phenomena
+### The fourth insight knowledge, Knowledge of the Arising and Passing away of Phenomena
 
 The fourth insight knowledge could be said to be the most significant event in a yogi's career, and is often the most spectacular. The nondescript name, Knowledge of the Arising and Passing Away of Phenomena, in no way does justice to the reality. This is the peak spiritual experience, often a completely life-changing event. While for some people it can be fairly subtle, often it involves unitive experiences, "God-union," "the white light," mystical visions, and sublime ecstasy. It signals the beginning of true spirituality, and while it is often mistaken for a culminating event, it is really the germination of the seed that will later come to fruition, first in the partial resolution that is First Path, and later in the final resolution that is arahatship.
 
@@ -347,12 +346,12 @@ Waves, however, are not infinite, but temporal and cyclical in nature. Returning
 
 And because following the peak of every wave is a trough, there is trouble on the horizon. Mercifully, the first part of the descent is pleasant, though that may be viewed as a knife that cuts both ways as it does not prepare the yogi for the horror of what is to come. Next in line is:
 
-#### The fifth insight knowledge, Knowledge of Dissolution
+### The fifth insight knowledge, Knowledge of Dissolution
 
 Returning, for a moment, to the energetic model, we can say that up until now the energy within the body and mind has been rising, and has reached its apex with the fourth insight knowledge. With the fifth insight knowledge, Knowledge of Dissolution, the energy is clearly perceived by the yogi to be subsiding. This is a very chilled-out stage, akin to post-coital bliss. The yogi is in love with the world and everyone in it, but feels no compulsion to do anything about it. Things are fine, just as they are, and the yogi can sit in the meditation hall for hours, grooving on the cool, diffuse, tingling sensations of the body. Before, at the peak of the cycle, it was possible to see the beginning, middle, and end of a thought or sensation. Now, only the end is seen. It is like driving in the slow lane on the highway, with no rear view mirror. All you can see is the receding tail lights of the other cars as they pass you and disappear in the distance. There is no oncoming traffic. The mind is markedly unproductive at this stage. By the time a thought is recognized, it is already gone. Conversations are difficult. One is grateful for the safe and undemanding environment of the silent retreat. This happy stupidity does not last long, however, as the dukkha ñanas are coming hard on its heels. We are about to enter the true low point of the cycle, territory so daunting that it has been the undoing of many a yogi.
 
 
-#### The Dukkha Ñanas
+### The Dukkha Ñanas
 
 There are just two places on the Progress of Insight where yogis get stuck.
 
@@ -364,9 +363,7 @@ The 10th ñana, on the other hand, is a different kind of animal. It has the pow
 
 Although all of the ñanas numbered six through eight are included in the dukkha ñanas, it is the 10th that causes the hardship, as the tenth is an iterative rehash of the Insight Knowledges of Fear, Misery, Disgust, and Desire for Deliverance, along with some nasty surprises all its own.
 
-Let us look at each of the dukkha ñanas in turn, beginning with the sixth ñana, Knowledge of Fear.
-
-##### The Sixth Ñana: Knowledge of Fear
+#### The Sixth Ñana: Knowledge of Fear
 
 The name says it all. Following the peak experience of the fourth ñana, the Arising and Passing Away of Phenomena, the yogi's world began to dissolve. But it was not a problem for the yogi, as the deep orgasmic joy of the crest of the wave was smoothly replaced by a cool bliss. Delicious tingling sensations ran down the arms and legs and thoughts disappeared before they could become the objects of obsession. Now all that changes. The dissolution continues in the sixth ñana, Knowledge of Fear, but the yogi experiences it very differently. He is terrified to see his world falling apart.
 
@@ -376,19 +373,19 @@ This experience, which lasted about ten minutes, was my first full-blown taste o
 
 A traditional description of the sixth ñana describes a mother who has just seen her husband and all but one of her sons executed. As her only surviving son prepares to suffer the same fate as his brothers, the dread that his mother feels is akin to that dread of a yogi who attains to the sixth ñana. Personally, I find this story a bit over the top, but it certainly gets one's attention. And Knowledge of Fear can be very intense, although for some yogis it is not spectacular at all, just unpleasant.
 
-##### The Seventh Ñana: Knowledge of Misery
+#### The Seventh Ñana: Knowledge of Misery
 
 The next insight knowledge to arise, the aptly named Knowledge of Misery, is number seven of 16. The body writhes, the skin feels like it is crawling with bugs, and the muscles of the neck and jaw contract unpleasantly, pulling the face into a rictus. It is hard to sit still on the cushion, as the whole body feels unsettled. Unpleasant sensations arise quickly and pass away before the yogi can focus on them, thus taking away one of the strategies that has served the yogi well until now, that of focusing on unpleasant body sensations in order to become concentrated. The experiences I have listed are just some of the many possible ways in which misery can arise. Each individual will have a unique experience. But the seventh ñana will not last long, perhaps not more than a day or two, if that.
 
-##### The Eighth Ñana: Knowledge of Disgust
+#### The Eighth Ñana: Knowledge of Disgust
 
 The ancient ñana-naming commission once again scores a perfect hit; the eighth insight knowledge, Knowledge of Disgust is just as it sounds. Food is repellant, the thought of sex is nauseating, and everyone smells bad. Again, this ñana is generally short-lived.
 
-##### The Ninth Ñana: Knowledge of Desire for Deliverance
+#### The Ninth Ñana: Knowledge of Desire for Deliverance
 
 Do you know what it feels like when you are sobbing, completely at wit's end, overcome by grief and self-pity? The body shakes and rocks, and you feel the release of total surrender to your emotional pain. This is the ninth insight knowledge, Knowledge of Desire for Deliverance.
 
-##### The Tenth Ñana: Knowledge of Re-Observation
+#### The Tenth Ñana: Knowledge of Re-Observation
 
 This is where the ancient Buddhist names of ñanas fell down on the job. The innocuous-sounding Knowledge of Re-Observation, tenth of the sixteen insight knowledges, is a wolf in sheep's clothing. Books have been written about it. It is the stuff legends are made of. This is the Dark Night of the Soul, and the Agony in the Garden. Although some yogis are able to pass through this stage relatively easily, it is common for a yogi's life to be completely disrupted by the tenth ñana.
 
@@ -435,7 +432,7 @@ We have so far limited our discussion to the physio-energetic development that c
 
 I'll continue the narrative of the ñanas in the next installment. Next stop: nibbana.
 
-#### Path and Fruition (Nibbana)
+### Path and Fruition (Nibbana)
 
 Let’s briefly review what we’ve seen so far:
 
@@ -457,7 +454,7 @@ Third, there is the possibility of re-experiencing the 15th ñana, frution; a yo
 
 And finally, there is the 16th ñana, “knowledge of review.” It is possible to learn to call up each of the ñanas 1-11 in addition to the 15th ñana of fruition and re-experience them as a kind of laboratory for understanding what the insight knowledges feel like and what insights they bring. (Ñanas 12-14 are one-time events marking the attainment of Path and will not happen again.) The ability to review previously attained ñanas is especially helpful for those who plan to become meditation teachers, but is interesting and useful for everyone because the ñanas will continue to cycle throughout a yogi’s lifetime and it’s very empowering to be able to identify them as they arise. This ability to see sensations, thoughts, and mind states from the outside rather than identifying with them is part of the larger process of awakening. When we objectify (take as the object of awareness) something that was previously seen as self, we move to more and more subtle forms of identification and ultimately come to the place where there is nothing left to identify with; there is only pure, non-local awareness, which can never be taken as object and can never be mistaken for "me." This Realization of primordial awareness is the happiness that does not depend upon conditions.
 
-#### The 16th Ñana: Knowledge of Review
+### The 16th Ñana: Knowledge of Review
 
 "Kenneth, I'm curious about the phenomenon called "cycling" and how that manifests. I relate well to the part of your commentary that explains the initial run-up to first path. I relate well to your explanation of a yogi's practice and how it changes after achieving first path. In MCTB Daniel Ingram makes reference to the part concentration plays in recognizing progress and he explains that a person with less concentration (attention?) will be less clued in to where they are and what's going on. Your description below hints at the same kind of thing:
 
@@ -503,7 +500,7 @@ You just go there. You don’t even think about it. That level of proficiency wi
 
 ## The Idiot's Guide to Dharma Diagnosis
 
-The Idiot’s Guide to Diagnosing the 16 Insight Knowledges
+*The Idiot’s Guide to Diagnosing the 16 Insight Knowledges*
 
 One of the questions that yogis ask most often is “Where am I on the Theravada Progress of Insight map?” This is a legitimate question and there can be real benefit in knowing the answer. If you are able to align your own experience with the traditional descriptions of insight it helps you to have faith that this practice works, which in turn can motivate you to practice more. Furthermore, your teacher may suggest different practices depending on how far along you are in the process.
 
@@ -584,7 +581,7 @@ After living as an ordinary chump for some period of time, the yogi may find tha
 
 Notice that throughout the explication of the five ranks it was not necessary to refer to any physio-energetic phenomenon whatsoever. The five ranks model deals exclusively with what is going on in the yogi’s mind. This is a purely psychological model.
 
-Hybrid Models
+### Hybrid Models
 
 It is, of course, possible to combine aspects of the physio-energetic and psychological models in an effort to provide a more complete picture of the yogi’s progress. The Theravada model of jhanas and ñanas is one such hybrid. The insight knowledges (ñanas) are described by Mahasi Sayadaw and others using both physical and psychological language. The 4th ñana (knowledge of the arising and passing away of phenomena), for example, is characterized by subtle vibrations, the perception of lights, great happiness, and feelings of unity. This kind of hybridization works well up to a point, and provides a more comprehensive description of the stages than either the physio-energetic or psychological models can do in isolation. But, while this kind of modeling does an excellent job of describing the insight knowledges, it fails to capture the overall trajectory of the process of enlightenment. In other words, to use Theravada Buddhist language, the hybrid model does not work across Paths.
 
@@ -1518,7 +1515,7 @@ Notice that the strata of mind are presented here in reverse order, with number 
 1\. ñana: Mind and Body (corresponds to 1st Material Jhana)
 
 
-## 2nd Gear
+# 2nd Gear
 
 Dwell as the "Witness."
 
@@ -1540,7 +1537,7 @@ One of the things I most want to communicate to people is that when we talk abou
 
 I think of an hourglass, turned on its side. On one side of the hourglass is the non-dual. If all of the sand has gone to that side, there is only the perfection of primordial awareness, which pervades, includes, and gives rise to all things. This is the most precious jewel of all the Buddhas, but does not lend itself to productivity or even functionality in modern daily life; we can only practice the non-dual when we don't have any other cognitively demanding tasks to attend to. On the other end of the hourglass is duality; when all the sand has moved to that side of the glass, the apparent self has completely lost touch with the greater reality and sees itself as cut off and separate from the whole. Although it is possible to be extremely productive in terms of daily life activities while isolated in this way (indeed, most people will spend their entire lives in the thrall of duality), the price to be paid for such a productive life is a horrendous amount of suffering. In the middle, in the narrow part of the hourglass, is the Witness. Experience is somewhat limited here, consistent with the narrowness of the glass; everything is seen as self. There is only pure subjectivity. All of the usual objects of consciousness are present, but they are not seen as Other. As such, the Witness is upstream from suffering. In other words, suffering, which is part and parcel of our ordinary dualistic condition, has not yet arisen during the witness state. And yet, unlike the full experience of non-duality, it's possible to do most daily tasks while dwelling as the Witness. Tasks that require dualistic thinking (writing this message, for example) can be effectively accomplished from the witness state, and with practice it gets easier and easier. The flexibility of the witness state, lying as it does halfway in between the dual and the non-dual, makes it possible to remain functional in daily life while staying poised at the very gates of primordial awareness, ready to tip over at a moments notice into what the Dzogchen masters call The Great Perfection. Because of its ability to serve as a bridge between the unborn and the manifest along with the practical value that goes along with that bridge status, I can scarcely imagine a more useful or empowering tool for those of us who have chosen to pursue awakening while living as householders.
 
-## 3rd Gear
+# 3rd Gear
 
 3rd Gear in the 3-Speed Transmission is the moment of surrender. From this point of view, there is nowhere to go and nothing to get. The happiness you seek is your own true nature and it is only your attempt to become or to create or to investigate that distracts you from seeing this.
 
@@ -1554,7 +1551,7 @@ Nothing you can do will lead to this. Nothing you can do or not do will lead you
 
 May you be happy.
 
-### Q & A on the Non-dual
+## Q & A on the Non-dual
 
 [These musings, presented in Question and Answer form, come from my interactions with other yogis in an online forum. Most of the "questions" appear as they were originally written. Some of them have been edited for clarity. Some of them are frankly invented, in order to better set up the answers. All of the "answers" are my responses to comments or questions from others. -Kenneth Folk, July 2009]
 
@@ -1990,7 +1987,7 @@ Feel your body, all at once. Don’t pick it apart, just let it be whole. Notice
 
 Now look around. See like an artist. Notice the brightness and immediacy of colors. See how shapes and patterns captivate the attention. Wood grain patterns are fascinating. That translucent green plastic yoga ball is a visual feast. The visual texture of fabrics is delightful. Feel your body again and ground the anxiety. If excitement arises, see it as an energy disruption. Ground it by placing your attention on it. Speculation arises; is this practice valuable? Ground it in the body. Look around at the clarity of the colors and the shapes. Feel the anxiety. Ground it. Doubt? You just sprung a leak. Feel it in the body and ground it. Panic that the simplicity of this experience calls into question everything you thought you knew about enlightenment? Feel it in the body and ground it. If you are suffering, you are not doing this practice. Ground the suffering as a sensation in the body and be as you are. This practice doesn’t go anywhere. It’s over. You are the happiness you seek. You are enlightened in this moment and there is nothing further to be done. This is the direct path. Feel the panic? Ground it...
 
-## The Controversy
+# The Controversy
 
 There is no consensus in Buddhism about what Ultimate Reality is. Let's be honest about this from the start and not soft-pedal it. Broadly speaking, there are two competing and mutually exclusive views about what constitutes the "final understanding." One view is that everything that can be experienced is "dependently arisen" according to conditions. That means that there is no inherently existing Primordial Awareness. Let's call that the conservative Theravada view. The other view is that there is an inherently existing Primordial Awareness that is uncompounded and unconditioned. It is said to pervade and give rise to all things, and as such is considered "non-dual" or "not-two." Let's call this the Mahayana/Vajrayana Buddhist view, although it is also shared by the more progressive elements within Theravada Buddhism such as the Thai Forest Tradition.
 
@@ -2008,7 +2005,7 @@ I urge each of you to find out what makes the most sense for you and to pursue t
 
 May you be happy.
 
-### Realization and Development
+## Realization and Development
 
 When I was in elementary school it dawned on me that the doctrines of the major religions were mutually exclusive. As such, I reasoned, none of them were true. The idea that just one of them had the right answer seemed unlikely in the extreme. Surely the truth could not belong to just one tribe. And since the idea of a great bearded fellow in the sky sounded way too much like Santa Claus, I decided that I did not know, and was therefore an agnostic. I went to the library and read about agnosticism, and soon came across Friedrich Engels' comment that "an agnostic is really a shamefaced atheist." Nine-year-old boys do not like to think of themselves as shamefaced, so I immediately resolved to be an atheist.
 
@@ -2050,4 +2047,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.06 - 2020-06-11
+V 1.07 - 2020-06-1
