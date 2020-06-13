@@ -859,7 +859,7 @@ The young man who had once been called Putujjana smiled and waved. The great oce
 
 ## Q & A on Vipassana
 
-[These musings, presented in Question and Answer form, come from my interactions with other yogis in an online forum. Most of the "questions" appear as they were originally written. Some of them have been edited for clarity. Some of them are frankly invented, in order to better set up the answers. All of the "answers" are my responses to comments or questions from others. -Kenneth Folk, July 2009]
+[These musings, presented in Question and Answer form, come from my interactions with other yogis in an online forum. Most of the "questions" appear as they were originally written. Some of them have been edited for clarity. Some of them are frankly invented, in order to better set up the answers. All of the "answers" are my responses to comments or questions from others. - Kenneth Folk, July 2009]
 
 **Question: My life has been very busy with little time for retreats and mostly supported by daily practice.**
 
@@ -1107,11 +1107,11 @@ Answer: I haven't yet done much online research for kundalina/chakra models of e
 
 **Question: 1) This reminds me of something I read written by the Venerable Ledi Sayadaw from Burma.. it said something along the lines of "arahats use the 4 satipatthanas as mental nutriment until they pass away". What do you think this means Kenneth?**
 
-2) Also, why do you think Goenka insists his students to choose one practice and stick with it? They have very rigid rules on who's allowed to sit longer courses (2 years without intoxicants, steady relationship or celibate, only practicing this technique , etc).
+**2) Also, why do you think Goenka insists his students to choose one practice and stick with it? They have very rigid rules on who's allowed to sit longer courses (2 years without intoxicants, steady relationship or celibate, only practicing this technique, etc).**
 
-Answer: 1) I would say that this is a very poetic way of saying that it feels natural to practice even after enlightenment. I think of arahatship as completing a circuit. Once it's complete, you don't have to do anything else in that regard, as it's done. But there is this other kind of development, the learning of how to be a human being in the world, and that never ends. Meditation helps with that. There is also the infinite exploration of the mental territory that becomes available with enlightenment. So you always continue to practice.
+Answer: (1) I would say that this is a very poetic way of saying that it feels natural to practice even after enlightenment. I think of arahatship as completing a circuit. Once it's complete, you don't have to do anything else in that regard, as it's done. But there is this other kind of development, the learning of how to be a human being in the world, and that never ends. Meditation helps with that. There is also the infinite exploration of the mental territory that becomes available with enlightenment. So you always continue to practice.
 
-2) I think Mr. Goenka wants to do what's best for his students and this is his very traditional view of what is best. By holding out on the advanced courses until students meet those rigorous criteria, he is providing an incentive for students to try the lifestyle he advocates. Some, including myself, would point out that while that kind of austerity can be supportive to practice, it is just one way to make progress. That's not to encourage reckless hedonism, but one must be honest that austerity is not pre-requisite to enlightenment. The importance of sticking with one practice is Mr. Goenka's preference, but is refuted by the success of many eclectic practitioners.
+(2) I think Mr. Goenka wants to do what's best for his students and this is his very traditional view of what is best. By holding out on the advanced courses until students meet those rigorous criteria, he is providing an incentive for students to try the lifestyle he advocates. Some, including myself, would point out that while that kind of austerity can be supportive to practice, it is just one way to make progress. That's not to encourage reckless hedonism, but one must be honest that austerity is not pre-requisite to enlightenment. The importance of sticking with one practice is Mr. Goenka's preference, but is refuted by the success of many eclectic practitioners.
 
 **Question: Now I find I can barely note anything at all. Everything seems "slippery"--the best I can describe is it feels like my mental phenomena are made of sand and fall apart. I find myself sinking and tending to fall asleep during meditation. My concentration is suddenly very poor.**
 
@@ -2047,4 +2047,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.07 - 2020-06-1
+V 1.08 - 2020-06-13
