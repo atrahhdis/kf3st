@@ -1921,7 +1921,9 @@ Now, distinguish 3 points of view: 1) vipassana, 2) the Witness, and 3) Absolute
 
 3) Absolute: THIS IS IT. I have nothing much to say about this, except to point out that it is synonymous with the Source, or that which cannot be further reduced. To have unfettered access to the Source is to be enlightened.
 
-Question: Would you agree that transpersonal awareness has no memory? If no individual consciousness is present, no passage of time and no storage of memory can arise.
+
+**Question: Would you agree that transpersonal awareness has no memory? If no individual consciousness is present, no passage of time and no storage of memory can arise.**
+
 
 Answer: That's right. Transpersonal awareness is atemporal or prior to the arising of time. Without time there is no memory. Furthermore, as it is prior to the arising of both time and the personal self, all talk of dukkha, anicca and anatta is a non-issue from this point of view. The reason the "I AM"/Witness can be said to be upstream from vipassana awareness is that individual consciousness is seen to arise within Awareness, not the other way around. So anytime someone attempts to describe transpersonal awareness from within the framework of impermanence, they are operating on a concept rather than the real thing. All attempts to explain the "I AM" from the point of view of vipassana should be immediately rejected as a category error.
 
@@ -2046,5 +2048,5 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 
 ## Version
-
 V 1.09 - 2020-06-18
+
