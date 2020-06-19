@@ -7,11 +7,9 @@ It was created for archiving purposes only, using the material found on various 
 The copyright owner of this material is [Kenneth Folk](https://kennethfolkdharma.com/).
 
 
-## Downloads (V 2.01 - 2020-06-19):
+## Downloads (V 2.02 - 2020-06-19):
 
 - [epub](https://github.com/atrahhdis/kf3st/raw/master/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.epub)
 - [azw3 (kindle)](https://github.com/atrahhdis/kf3st/raw/master/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.azw3)
 - [mobi (old kindle devices)](https://github.com/atrahhdis/kf3st/raw/master/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.mobi)
-
-
-Note: If you want to explore all other available e-books, have a look on [atrahhdis.github.io](https://atrahhdis.github.io).
+- [PDF](https://github.com/atrahhdis/kf3st/raw/master/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.pdf)
