@@ -286,7 +286,7 @@ We can divide the graph into five parts:
 
 2. / (The ascent.)
 
-3. /\ ( The peak.)
+3. /\ (The peak.)
 
 4. \ (The descent.)
 
@@ -2048,5 +2048,5 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 
 ## Version
-V 2.00 - 2020-06-19
+V 2.01 - 2020-06-19
 
