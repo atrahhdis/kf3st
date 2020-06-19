@@ -1799,9 +1799,9 @@ Four possibilities:
 
 **2)In your tongue-in-cheek “4 types of people” model, for cases 1 ("pretty common") and 2 to occur, the coupling can't be too strong; yet the ideal (even in Theravada, I'd say) clearly is point 3, and it is presented in a way to imply strong coupling.**
 
-Answer: 1) I'd have to say I think the coupling is pretty tenuous. Once Awakened, it still takes a tremendous amount of commitment and effort for most people to complete the physio-energetic process. (I realize that I'm creating problems with this terminology, because we (including me) usually use "Awakened" to mean "fully awake," and now I am calling people who have only occasional access to the unconditioned "Awake." Perhaps my vocabulary could use further refinement.)
+Answer: (1) I'd have to say I think the coupling is pretty tenuous. Once Awakened, it still takes a tremendous amount of commitment and effort for most people to complete the physio-energetic process. (I realize that I'm creating problems with this terminology, because we (including me) usually use "Awakened" to mean "fully awake," and now I am calling people who have only occasional access to the unconditioned "Awake." Perhaps my vocabulary could use further refinement.)
 
-2) I don't think the Theravada ideal is both development and Awakening. I think it's just development as I'm defining it. The Burmese, for example, don't talk about "turning the light around," "awareness knowing itself," "realizing what has always been true," etc, all of which are recurring themes in Advaita, Mahayana, and Vajrayana. They seem to take enlightenment as an entirely linear process that fundamentally changes the practitioner over time. Theravada, notwithstanding the occasional instant-arahat story in the suttas, is about as far as you can get from a sudden-enlightenment school.
+(2) I don't think the Theravada ideal is both development and Awakening. I think it's just development as I'm defining it. The Burmese, for example, don't talk about "turning the light around," "awareness knowing itself," "realizing what has always been true," etc, all of which are recurring themes in Advaita, Mahayana, and Vajrayana. They seem to take enlightenment as an entirely linear process that fundamentally changes the practitioner over time. Theravada, notwithstanding the occasional instant-arahat story in the suttas, is about as far as you can get from a sudden-enlightenment school.
 
 Among those who do talk about awareness knowing itself (see Mahamudra, for example), there is wide consensus that this Realization is by far the most important thing to have and that pure developmentalists are somehow missing the boat.
 
@@ -2048,5 +2048,5 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 
 ## Version
-V 1.09 - 2020-06-18
+V 2.00 - 2020-06-19
 
